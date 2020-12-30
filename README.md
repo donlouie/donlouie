@@ -59,15 +59,13 @@
 </code>](https://www.adobe.com/)
 [<code>
 <img alt="adobe xd" width="26px" src="https://img.icons8.com/color/48/000000/adobe-xd.png">
-</code>](https://www.adobe.com/)                                                                                                 [<code>
+</code>](https://www.adobe.com/)                                                                                                
+[<code>
 <img alt="adobe illustrator" width="26px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png">
 </code>](https://www.adobe.com/)
-
-
-
 
 ---
 
 ##
 ![d0nl0ui3's github stats](https://github-readme-stats.vercel.app/api?username=d0nl0ui3&theme=gruvbox)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0nl0ui3&langs_count=8&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0nl0ui3&layout=compact&theme=dracula)
