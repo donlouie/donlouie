@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning ... Information Technology and Web Development
 - 🤔 I’m looking for help with ... Improving my coding practices  
 
+---
+
 ### Languages and Tools:
 
 [<code>
@@ -63,8 +65,6 @@
 [<code>
 <img alt="adobe illustrator" width="26px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png">
 </code>](https://www.adobe.com/)
-
----
 
 ##
 ![d0nl0ui3's github stats](https://github-readme-stats.vercel.app/api?username=d0nl0ui3&theme=gruvbox)  
