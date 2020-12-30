@@ -61,7 +61,7 @@
 </code>](https://www.adobe.com/)
 [<code>
 <img alt="adobe xd" width="26px" src="https://img.icons8.com/color/48/000000/adobe-xd.png">
-</code>](https://www.adobe.com/)                                                                                                
+</code>](https://www.adobe.com/)                                                                                           
 [<code>
 <img alt="adobe illustrator" width="26px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png">
 </code>](https://www.adobe.com/)
