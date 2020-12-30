@@ -35,7 +35,7 @@
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://www.dev.mysql.com/)
 [<code>
-<img alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png">
+<img alt="MongoDB" width="26px" src="https://img.icons8.com/color/240/000000/mongodb.png">
 </code>](https://www.mongodb.com/)
 [<code>
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
@@ -51,19 +51,19 @@
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
 [<code>
-<img alt="heroku" width="26px" src="https://img.icons8.com/nolan/64/heroku.png">
+<img alt="heroku" width="26px" src="https://img.icons8.com/nolan/240/heroku.png">
 </code>](https://www.heroku.com/)
 [<code>
-<img alt="bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png">
+<img alt="bootstrap" width="26px" src="https://img.icons8.com/color/240/000000/bootstrap.png">
 </code>](https://www.getbootstrap.com/)
 [<code>
-<img alt="adobe photoshop" width="26px" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png">
+<img alt="adobe photoshop" width="26px" src="https://img.icons8.com/fluent/240/000000/adobe-photoshop.png">
 </code>](https://www.adobe.com/)
 [<code>
-<img alt="adobe xd" width="26px" src="https://img.icons8.com/color/48/000000/adobe-xd.png">
+<img alt="adobe xd" width="26px" src="https://img.icons8.com/color/240/000000/adobe-xd.png">
 </code>](https://www.adobe.com/)
 [<code>
-<img alt="adobe illustrator" width="26px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png">
+<img alt="adobe illustrator" width="26px" src="https://img.icons8.com/color/240/000000/adobe-illustrator.png">
 </code>](https://www.adobe.com/)
 
 ##
