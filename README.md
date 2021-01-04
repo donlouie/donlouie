@@ -68,4 +68,4 @@
 
 ##
 ![d0nl0ui3's github stats](https://github-readme-stats.vercel.app/api?username=d0nl0ui3&theme=gruvbox)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0nl0ui3-stash&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0nl0ui3&layout=compact&theme=dracula)
