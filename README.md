@@ -20,8 +20,8 @@
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<code>
-<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
+<img alt="bootstrap" width="26px" src="https://img.icons8.com/color/240/000000/bootstrap.png">
+</code>](https://www.getbootstrap.com/)
 [<code>
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
 </code>](https://www.json.org/json-en.html)
@@ -53,9 +53,6 @@
 [<code>
 <img alt="heroku" width="26px" src="https://img.icons8.com/nolan/240/heroku.png">
 </code>](https://www.heroku.com/)
-[<code>
-<img alt="bootstrap" width="26px" src="https://img.icons8.com/color/240/000000/bootstrap.png">
-</code>](https://www.getbootstrap.com/)
 [<code>
 <img alt="adobe photoshop" width="26px" src="https://img.icons8.com/fluent/240/000000/adobe-photoshop.png">
 </code>](https://www.adobe.com/)
