@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ... Information Technology and Web Development
+- 🌱 I’m currently learning ... Javascript, Nodejs, noSQL Database
 - 🤔 I’m looking for help with ... Improving my coding practices  
 
 ---
