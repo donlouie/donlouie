@@ -1,8 +1,6 @@
 ### Hi there 👋
-
 - 🌱 I’m currently learning ... Javascript, Nodejs, noSQL Database
 - 🤔 I’m looking for help with ... Improving my coding practices  
-
 ---
 
 ### Languages and Tools:
@@ -64,5 +62,6 @@
 </code>](https://www.adobe.com/)
 
 ##
+![My Codewarrior Profile Badge](https://www.codewars.com/users/d0nl0ui3/badges/small)  
 ![d0nl0ui3's github stats](https://github-readme-stats.vercel.app/api?username=d0nl0ui3&theme=gruvbox)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0nl0ui3&layout=compact&theme=dracula)
