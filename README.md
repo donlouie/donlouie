@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ... Javascript, Nodejs, noSQL Database
-- 🤔 I’m looking for help with ... Improving my coding practices  
+- 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ... ᴊᴀᴠᴀsᴄʀɪᴘᴛ, ɴᴏᴅᴇᴊs, ɴᴏsǫʟ/ᴍᴏɴɢᴏᴅʙ ᴅᴀᴛᴀʙᴀsᴇ
+- 🤔 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ғᴏʀ ʜᴇʟᴘ ᴡɪᴛʜ ... ɪᴍᴘʀᴏᴠɪɴɢ ᴍʏ ᴄᴏᴅɪɴɢ ᴘʀᴀᴄᴛɪᴄᴇs  
 ---
 
 ### Languages and Tools:
