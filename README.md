@@ -1,67 +1,52 @@
+![](https://komarev.com/ghpvc/?username=d0nl0ui3)
+![My Codewarrior Profile Badge](https://www.codewars.com/users/d0nl0ui3/badges/micro)  
 ### Hi there 👋
 - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ... ᴊᴀᴠᴀsᴄʀɪᴘᴛ, ɴᴏᴅᴇᴊs, ɴᴏsǫʟ/ᴍᴏɴɢᴏᴅʙ ᴅᴀᴛᴀʙᴀsᴇ
 - 🤔 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ғᴏʀ ʜᴇʟᴘ ᴡɪᴛʜ ... ɪᴍᴘʀᴏᴠɪɴɢ ᴍʏ ᴄᴏᴅɪɴɢ ᴘʀᴀᴄᴛɪᴄᴇs  
----
 
-### Languages and Tools:
+<p align='center'>
+  <a href="https://www.linkedin.com/in/don-louie-gallegos-2b280b202/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
 
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="bootstrap" width="26px" src="https://img.icons8.com/color/240/000000/bootstrap.png">
-</code>](https://www.getbootstrap.com/)
-[<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
-[<code>
-<img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</code>](https://www.eslint.org/)
-[<code>
-<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://www.nodejs.org/en/)
-[<code>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://www.dev.mysql.com/)
-[<code>
-<img alt="MongoDB" width="26px" src="https://img.icons8.com/color/240/000000/mongodb.png">
-</code>](https://www.mongodb.com/)
-[<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://www.git-scm.com/)
-[<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://www.github.com/)
-[<code>
-<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>](https://hyper.is/)
-<br />
-[<code>
-<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
-[<code>
-<img alt="heroku" width="26px" src="https://img.icons8.com/nolan/240/heroku.png">
-</code>](https://www.heroku.com/)
-[<code>
-<img alt="adobe photoshop" width="26px" src="https://img.icons8.com/fluent/240/000000/adobe-photoshop.png">
-</code>](https://www.adobe.com/)
-[<code>
-<img alt="adobe xd" width="26px" src="https://img.icons8.com/color/240/000000/adobe-xd.png">
-</code>](https://www.adobe.com/)
-[<code>
-<img alt="adobe illustrator" width="26px" src="https://img.icons8.com/color/240/000000/adobe-illustrator.png">
-</code>](https://www.adobe.com/)
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=d0nl0ui3&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
-##
-![My Codewarrior Profile Badge](https://www.codewars.com/users/d0nl0ui3/badges/small)  
-![d0nl0ui3's github stats](https://github-readme-stats.vercel.app/api?username=d0nl0ui3&theme=gruvbox)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0nl0ui3&layout=compact&theme=dracula)
+<p align='center'>
+  📫 How to reach me: <a href='mailto:don_gallegos@outlook.com'>don_gallegos@outlook.com</a>
+</p>
+
+<p align='center'>
+  <a href="">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>&nbsp;&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  </a>&nbsp;&nbsp;<br />
+  <a href="">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  </a>&nbsp;&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
