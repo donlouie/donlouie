@@ -49,4 +49,7 @@
   <a href="">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   </a>&nbsp;&nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>&nbsp;&nbsp;
 </p>
