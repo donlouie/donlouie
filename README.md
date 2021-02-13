@@ -17,8 +17,10 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=d0nl0ui3&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=d0nl0ui3&show_icons=true&count_private=true&theme=dark" width="350"></a><br /> 
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d0nl0ui3&layout=compact" width="200"></a>
 </p>
+
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:don_gallegos@outlook.com'>don_gallegos@outlook.com</a>
