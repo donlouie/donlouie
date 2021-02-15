@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=d0nl0ui3)
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/d0nl0ui3/badges/micro)  
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ... ᴊᴀᴠᴀsᴄʀɪᴘᴛ, ɴᴏᴅᴇᴊs, ɴᴏsǫʟ/ᴍᴏɴɢᴏᴅʙ ᴅᴀᴛᴀʙᴀsᴇ
 - 🤔 ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ғᴏʀ ʜᴇʟᴘ ᴡɪᴛʜ ... ɪᴍᴘʀᴏᴠɪɴɢ ᴍʏ ᴄᴏᴅɪɴɢ ᴘʀᴀᴄᴛɪᴄᴇs  
 
