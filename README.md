@@ -1,7 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=d0nl0ui3)
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/d0nl0ui3/badges/micro)  
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-🌱🤔
+
+<p align='center'>
+  <b>Hi there</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</br>🌱🤔
+</p>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/don-louie-gallegos-2b280b202/">
