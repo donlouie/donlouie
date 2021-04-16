@@ -6,9 +6,8 @@
 ---
 ### 👨‍💻 About me
 - 🔭 I’m currently working on a 360° Panorama Virtual Reality Website
-- 🌱 I’m currently Web Development
+- 🌱 I’m currently studying Web Development
 - 💬 Open for collaboration
-- 
 ---
 ### 📫 How to reach me
 [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=black&link=https://github.com/donlouie)](https://github.com/donlouie)
