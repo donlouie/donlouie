@@ -1,6 +1,9 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 𝗛𝗲𝗹𝗹𝗼 𝘁𝗵𝗲𝗿𝗲❗
 
+[![forthebadge](https://forthebadge.com/images/badges/kinda-sfw.svg)](https://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)](https://forthebadge.com) 
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)  
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)  
 ![](https://komarev.com/ghpvc/?username=d0nl0ui3)
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/d0nl0ui3/badges/micro)  
 
