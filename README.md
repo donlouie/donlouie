@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 𝗛𝗲𝗹𝗹𝗼 𝘁𝗵𝗲𝗿𝗲❗
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 𝗛𝗲𝗹𝗹𝗼 𝘁𝗵𝗲𝗿𝗲❗<img src="https://cloud.githubusercontent.com/assets/6494463/18394336/6d73719a-7687-11e6-829f-ec079dfef111.gif" width="30px">
 
 [![forthebadge](https://forthebadge.com/images/badges/kinda-sfw.svg)](https://forthebadge.com) 
 [![forthebadge](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)](https://forthebadge.com) 
@@ -48,7 +48,7 @@
 
 ---
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donlouie&layout=compact&theme=highcontrast" width="210"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=donlouie&show_icons=true&count_private=true&theme=dark" width="250"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donlouie&layout=compact&theme=highcontrast" width="240"></a>
 </p>
 
