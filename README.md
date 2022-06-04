@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello!<img src="https://cloud.githubusercontent.com/assets/6494463/18394336/6d73719a-7687-11e6-829f-ec079dfef111.gif" width="30px">
+###  Hello!<img src="https://cloud.githubusercontent.com/assets/6494463/18394336/6d73719a-7687-11e6-829f-ec079dfef111.gif" width="30px">
 
 [![forthebadge](https://forthebadge.com/images/badges/kinda-sfw.svg)](https://forthebadge.com) 
 [![forthebadge](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)](https://forthebadge.com) 
