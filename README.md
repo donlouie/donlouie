@@ -1,9 +1,6 @@
-###  Hello!<img src="https://cloud.githubusercontent.com/assets/6494463/18394336/6d73719a-7687-11e6-829f-ec079dfef111.gif" width="30px">
-
-[![forthebadge](https://forthebadge.com/images/badges/kinda-sfw.svg)](https://forthebadge.com) 
-[![forthebadge](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)](https://forthebadge.com) 
-[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)  
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)  
+###  
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)  <img src="https://cloud.githubusercontent.com/assets/6494463/18394336/6d73719a-7687-11e6-829f-ec079dfef111.gif" width="30px">
+<img src="https://github.com/donlouie/donlouie/blob/main/Banner.jpg?raw=true" alt="banner that says Don Louie Gallegos - web developer, ui ux, graphic design">
 ![](https://komarev.com/ghpvc/?username=d0nl0ui3)
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/d0nl0ui3/badges/micro)  
 
