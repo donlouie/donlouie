@@ -1,8 +1,9 @@
 ###  
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)  
-<img src="https://github.com/donlouie/donlouie/blob/main/Banner.jpg?raw=true" alt="banner that says Don Louie Gallegos - web developer, ui ux, graphic design">
 ![](https://komarev.com/ghpvc/?username=d0nl0ui3)
-![My Codewarrior Profile Badge](https://www.codewars.com/users/d0nl0ui3/badges/micro)  
+![My Codewarrior Profile Badge](https://www.codewars.com/users/d0nl0ui3/badges/micro) 
+<img src="https://github.com/donlouie/donlouie/blob/main/Banner.jpg?raw=true" alt="banner that says Don Louie Gallegos - web developer, ui ux, graphic design">
+ 
 
 ---
 ### 📫 How to reach me
